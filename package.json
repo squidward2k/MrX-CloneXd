@@ -1,6 +1,6 @@
 {
- "name": "MrX WhatsApp Assistant",
- "description": "Multi Device Whatsapp Assistant by MrX",
+ "name": "Mrx Clone By Squidward2k",
+ "description": "Multi Device Whatsapp Assistant by Squidward2k",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
@@ -87,7 +87,7 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant.git"
+  "url": "git+https://github.com/squidward2k/MrX-CloneXd.git"
  },
  "bugs": {
   "url": "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant/issues"
